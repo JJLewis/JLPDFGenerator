@@ -1,6 +1,6 @@
 JLPDFGenerator
 =============
-JLPDFGenerator makes creating a PDF document from scratch extremly easy.
+JLPDFGenerator makes creating a PDF document from scratch extremely easy.
 
 Dependencies
 =============
